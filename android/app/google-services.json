@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440002863170",
+    "project_id": "fir-adaf5",
+    "storage_bucket": "fir-adaf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440002863170:android:64b44057ba5d286b700ddb",
+        "android_client_info": {
+          "package_name": "com.example.app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9HOQ-aT3ibj3aY2HFQNbMYtg6F2pFiSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
